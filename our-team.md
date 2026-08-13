@@ -1,93 +1,152 @@
-# TYPC D — Group 2, Team 07
+# 🐧 TYPC D — INT100 Group 2, Team 07
 
 INT100 Design Thinking 1/2026 · School of Information Technology, KMUTT
 
-แต่ละคนสัมภาษณ์เพื่อนในทีม 1 คน แล้วเขียนแนะนำ **เพื่อนที่สัมภาษณ์** ลงในหัวข้อของตัวเองด้านล่าง
-(ต้องมีรูป 1 รูป และลิงก์อย่างน้อย 1 ลิงก์ ตามโจทย์)
+---
+
+## 🏷️ ที่มาของชื่อทีม
+
+> (คุยกันใน Issue "ที่มาของชื่อทีม" ก่อน แล้วสรุปมาเขียนตรงนี้)
+
+ชื่อทีม **TYPC D** มาจาก ...
+
+- ใครเป็นคนเสนอ:
+- ความหมายเบื้องหลังชื่อ:
+- ทำไมทีมถึงเลือกชื่อนี้:
+
+*(ข้อนี้อาจารย์บังคับ: "Describe how you came up with your team name. Is there a meaning behind the name?")*
 
 ---
 
-## สมาชิกทีม
+## 👥 สมาชิกทีม
 
-| ชื่อ | GitHub | ผู้สัมภาษณ์ |
+| ชื่อ | GitHub | เขียนแนะนำโดย |
 | --- | --- | --- |
-| (ชื่อ-นามสกุล) | [@sayada06](https://github.com/sayada06) | (ใครสัมภาษณ์) |
-| (ชื่อ-นามสกุล) | [@ชื่อผู้ใช้](https://github.com/) | (ใครสัมภาษณ์) |
-| (ชื่อ-นามสกุล) | [@ชื่อผู้ใช้](https://github.com/) | (ใครสัมภาษณ์) |
-| (ชื่อ-นามสกุล) | [@ชื่อผู้ใช้](https://github.com/) | (ใครสัมภาษณ์) |
+| (ชื่อ-นามสกุล) | [@Tayakorn000](https://github.com/Tayakorn000) | |
+| (ชื่อ-นามสกุล) | [@sayada06](https://github.com/sayada06) | |
+| (ชื่อ-นามสกุล) | [@QuoalaZ](https://github.com/QuoalaZ) | |
+| (ชื่อ-นามสกุล) | [@nonnyhiw](https://github.com/nonnyhiw) | |
+| (ชื่อ-นามสกุล) | [@pickerkung](https://github.com/pickerkung) | |
+| (ชื่อ-นามสกุล) | [@greenbank-336](https://github.com/greenbank-336) | |
 
 ---
 
-## ชื่อเพื่อน 1
+## ✍️ วิธีเขียนหัวข้อของตัวเอง
 
-![รูปของ ชื่อเพื่อน 1](images/member1.jpg)
+คัดลอกบล็อกด้านล่างไปแก้ ห้ามลืม 4 อย่างที่อาจารย์บังคับ:
+รูป (อัปโหลดขึ้น GitHub ใช้ relative link) · ลิงก์ออกนอก GitHub · list · emoji
 
-- **ชื่อเล่น:**
-- **GitHub:** [@username](https://github.com/username)
-- **ลิงก์:** [Instagram / Facebook / เว็บส่วนตัว](https://example.com)
+---
+
+## 🙋 ชื่อเพื่อนคนที่ 1
+
+![ชื่อเพื่อนคนที่ 1](images/member1.jpg)
+
+- 🏫 **ชื่อเล่น:**
+- 💻 **GitHub:** [@username](https://github.com/username)
+- 🔗 **ลิงก์:** [Instagram](https://instagram.com/xxxx)
+- 🎯 **สิ่งที่ชอบทำ:**
 
 **เรื่องที่ได้จากการสัมภาษณ์**
 
-เขียน 3–5 บรรทัด: เรียนจบจากไหน ทำไมเลือก IT สิ่งที่ชอบทำนอกเวลาเรียน
-เรื่องที่ประทับใจที่สุดที่เขาเล่าให้ฟัง
+เขียน 3–5 บรรทัด เช่น มาจากโรงเรียนไหน ทำไมเลือกเรียน IT
+เวลาว่างทำอะไร เรื่องที่ประทับใจที่สุดที่เขาเล่าให้ฟัง
 
-> คำพูดของเขาที่ชอบที่สุด ใส่เป็น quote ตรงนี้
+> คำพูดของเขาที่ชอบที่สุด
 
-**สัมภาษณ์โดย:** (ชื่อคุณ)
-
----
-
-## ชื่อเพื่อน 2
-
-![รูปของ ชื่อเพื่อน 2](images/member2.jpg)
-
-- **ชื่อเล่น:**
-- **GitHub:** [@username](https://github.com/username)
-- **ลิงก์:** [Instagram / Facebook / เว็บส่วนตัว](https://example.com)
-
-**เรื่องที่ได้จากการสัมภาษณ์**
-
-> quote
-
-**สัมภาษณ์โดย:**
+**✏️ เขียนแนะนำโดย:**
 
 ---
 
-## ชื่อเพื่อน 3
+## 🙋 ชื่อเพื่อนคนที่ 2
 
-![รูปของ ชื่อเพื่อน 3](images/member3.jpg)
+![ชื่อเพื่อนคนที่ 2](images/member2.jpg)
 
-- **ชื่อเล่น:**
-- **GitHub:** [@username](https://github.com/username)
-- **ลิงก์:** [Instagram / Facebook / เว็บส่วนตัว](https://example.com)
+- 🏫 **ชื่อเล่น:**
+- 💻 **GitHub:** [@username](https://github.com/username)
+- 🔗 **ลิงก์:** [Instagram](https://instagram.com/xxxx)
+- 🎯 **สิ่งที่ชอบทำ:**
 
 **เรื่องที่ได้จากการสัมภาษณ์**
 
 > quote
 
-**สัมภาษณ์โดย:**
+**✏️ เขียนแนะนำโดย:**
 
 ---
 
-## ชื่อเพื่อน 4
+## 🙋 ชื่อเพื่อนคนที่ 3
 
-![รูปของ ชื่อเพื่อน 4](images/member4.jpg)
+![ชื่อเพื่อนคนที่ 3](images/member3.jpg)
 
-- **ชื่อเล่น:**
-- **GitHub:** [@username](https://github.com/username)
-- **ลิงก์:** [Instagram / Facebook / เว็บส่วนตัว](https://example.com)
+- 🏫 **ชื่อเล่น:**
+- 💻 **GitHub:** [@username](https://github.com/username)
+- 🔗 **ลิงก์:** [Instagram](https://instagram.com/xxxx)
+- 🎯 **สิ่งที่ชอบทำ:**
 
 **เรื่องที่ได้จากการสัมภาษณ์**
 
 > quote
 
-**สัมภาษณ์โดย:**
+**✏️ เขียนแนะนำโดย:**
 
 ---
 
-## วิธีทำงานกับไฟล์นี้ (GitHub Flow)
+## 🙋 ชื่อเพื่อนคนที่ 4
+
+![ชื่อเพื่อนคนที่ 4](images/member4.jpg)
+
+- 🏫 **ชื่อเล่น:**
+- 💻 **GitHub:** [@username](https://github.com/username)
+- 🔗 **ลิงก์:** [Instagram](https://instagram.com/xxxx)
+- 🎯 **สิ่งที่ชอบทำ:**
+
+**เรื่องที่ได้จากการสัมภาษณ์**
+
+> quote
+
+**✏️ เขียนแนะนำโดย:**
+
+---
+
+## 🙋 ชื่อเพื่อนคนที่ 5
+
+![ชื่อเพื่อนคนที่ 5](images/member5.jpg)
+
+- 🏫 **ชื่อเล่น:**
+- 💻 **GitHub:** [@username](https://github.com/username)
+- 🔗 **ลิงก์:** [Instagram](https://instagram.com/xxxx)
+- 🎯 **สิ่งที่ชอบทำ:**
+
+**เรื่องที่ได้จากการสัมภาษณ์**
+
+> quote
+
+**✏️ เขียนแนะนำโดย:**
+
+---
+
+## 🙋 ชื่อเพื่อนคนที่ 6
+
+![ชื่อเพื่อนคนที่ 6](images/member6.jpg)
+
+- 🏫 **ชื่อเล่น:**
+- 💻 **GitHub:** [@username](https://github.com/username)
+- 🔗 **ลิงก์:** [Instagram](https://instagram.com/xxxx)
+- 🎯 **สิ่งที่ชอบทำ:**
+
+**เรื่องที่ได้จากการสัมภาษณ์**
+
+> quote
+
+**✏️ เขียนแนะนำโดย:**
+
+---
+
+## 🔄 วิธีทำงานกับไฟล์นี้ (GitHub Flow)
 
 1. สร้าง branch ของตัวเอง เช่น `intro-sayada06`
-2. แก้เฉพาะหัวข้อของตัวเอง แล้ว commit
+2. แก้เฉพาะหัวข้อของตัวเอง แล้ว commit หลายครั้ง
 3. เปิด Pull request มาที่ `main`
-4. ให้เพื่อนในทีม review แล้ว merge
+4. **เพื่อนในทีมต้องกด Review แล้ว Approve ก่อนถึงจะ merge ได้** (อาจารย์บังคับ)
+5. merge เข้า `main`
