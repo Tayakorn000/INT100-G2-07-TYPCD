@@ -14,7 +14,7 @@ INT100 Design Thinking 1/2026 · School of Information Technology, KMUTT
 - ความหมายเบื้องหลังชื่อ:
 - ทำไมทีมถึงเลือกชื่อนี้:
 
-*(ข้อนี้อาจารย์บังคับ: "Describe how you came up with your team name. Is there a meaning behind the name?")*
+_(ข้อนี้อาจารย์บังคับ: "Describe how you came up with your team name. Is there a meaning behind the name?")_
 
 ---
 
@@ -23,12 +23,11 @@ INT100 Design Thinking 1/2026 · School of Information Technology, KMUTT
 | ชื่อ | GitHub | เขียนแนะนำโดย |
 | --- | --- | --- |
 | (ชื่อ-นามสกุล) | [@Tayakorn000](https://github.com/Tayakorn000) | |
-| (ชื่อ-นามสกุล) | [@sayada06](https://github.com/sayada06) | |
+| ศญาฎา สุดยินดี | [@sayada06](https://github.com/sayada06) | |
 | (ชื่อ-นามสกุล) | [@QuoalaZ](https://github.com/QuoalaZ) | |
 | (ชื่อ-นามสกุล) | [@nonnyhiw](https://github.com/nonnyhiw) | |
 | (ชื่อ-นามสกุล) | [@pickerkung](https://github.com/pickerkung) | |
-| (ชื่อ-นามสกุล) | [@greenbank-336](https://github.com/greenbank-336) | |
-
+| ธีระเดช พลดอน | [@greenbank-336](https://github.com/greenbank-336) | [@sayada06](https://github.com/sayada06) |
 ---
 
 ## ✍️ วิธีเขียนหัวข้อของตัวเอง
@@ -38,23 +37,26 @@ INT100 Design Thinking 1/2026 · School of Information Technology, KMUTT
 
 ---
 
-## 🙋 ชื่อเพื่อนคนที่ 1
+## 🙋 แบงค์
 
-![ชื่อเพื่อนคนที่ 1](images/member1.jpg)
+![แบงค์](images/member1.jpg)
 
-- 🏫 **ชื่อเล่น:**
-- 💻 **GitHub:** [@username](https://github.com/username)
-- 🔗 **ลิงก์:** [Instagram](https://instagram.com/xxxx)
-- 🎯 **สิ่งที่ชอบทำ:**
+- 🏫 **ชื่อเล่น:** แบงค์
+- 💻 **GitHub:** [@greenbank-336](https://github.com/greenbank-336)
+- 🔗 **ลิงก์:** [@chedareet](https://instagram.com/chedareet/)
+- 🎯 **สิ่งที่ชอบทำ:** ส่วนใหญ่จะเป็นการเล่นเกม ฟังเพลง แต่ก็มีวาดภาพและอ่านหนังสือบ้างบางครั้ง
 
-**เรื่องที่ได้จากการสัมภาษณ์**
+### **เรื่องที่ได้จากการสัมภาษณ์**
 
-เขียน 3–5 บรรทัด เช่น มาจากโรงเรียนไหน ทำไมเลือกเรียน IT
-เวลาว่างทำอะไร เรื่องที่ประทับใจที่สุดที่เขาเล่าให้ฟัง
+แบงค์จบมาจาก ***โรงเรียนมัธยมวัดสิงห์*** <br>
+***ทำไมแบงค์ถึงอยากเรียนที่นี่*** อย่างแรกเลยแบงค์บอกว่าที่นี่เป็นมหาลัยที่มีชื่อเสียง อย่างที่สองคือมหาวิทยาลัยอยู่ใกล้กับบ้าน และที่เลือกเรียนคณะนี้เพราะ แบงค์ชอบโน๊ตบุ๊คและคอม เป็นพิเศษ อีกทั้งยังมีความชอบในด้าน AI และแบงค์สงสัยว่า AI ทำยังไงถึงเกิดขึ้น อะไรทำให้หลายคนมองว่า AI น่ากลัว และอยากรู้ว่า AI ในโลกของเราจะสามารถพัฒนาถึงในระดับที่เขาบอกว่า  เหนือกว่ามนุษย์ทุกคนในทุกด้านอย่าง ASI(Artificial Super intelligent) ได้ไหม <br>
+***สิ่งที่แบงค์ประทับใจ*** เป็นในเรื่องที่คอยช่วนสอนเพื่อนในเรื่องที่เพื่อนคนนั้นไม่เข้าใจแต่ตัวเองนั้นเข้าใจ
 
-> คำพูดของเขาที่ชอบที่สุด
+> คำพูดที่แบงค์ชอบที่สุดคือ **"what the"(ลากยาว) และคำว่า "จะว่าไป"**
 
 **✏️ เขียนแนะนำโดย:**
+
+**[@sayada06](https://github.com/sayada06)** | นางสาวศญาฎา สุดยินดี (โฟม) รหัสนักศึกษา 69130500098 
 
 ---
 
@@ -79,7 +81,7 @@ INT100 Design Thinking 1/2026 · School of Information Technology, KMUTT
 
 ![ชื่อเพื่อนคนที่ 3](images/member3.jpg)
 
-- 🏫 **ชื่อเล่น:**
+- 🏫 **ชื่อเล่น:** แบงค์
 - 💻 **GitHub:** [@username](https://github.com/username)
 - 🔗 **ลิงก์:** [Instagram](https://instagram.com/xxxx)
 - 🎯 **สิ่งที่ชอบทำ:**
