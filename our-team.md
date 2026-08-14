@@ -39,7 +39,7 @@ _(ข้อนี้อาจารย์บังคับ: "Describe how you c
 
 ## 🙋 แบงค์
 
-<img src="images/member1.jpg" alt="แบงค์" width="200">
+![แบงค์](images/member1.jpg)
 
 - 🏫 **ชื่อเล่น:** แบงค์
 - 💻 **GitHub:** [@greenbank-336](https://github.com/greenbank-336)
