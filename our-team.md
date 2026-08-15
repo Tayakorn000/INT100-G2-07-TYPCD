@@ -115,7 +115,7 @@ INT100 Design Thinking 1/2026 · School of Information Technology, KMUTT
 
 - 🏫 **ชื่อเล่น:** พิกเกอร์
 - 💻 **GitHub:** [@pickerkung](https://github.com/pickerkung)
-- 🔗 **ลิงก์:** [Instagram](https://instagram.com/xxxx)
+- 🔗 **ลิงก์:** [Instagram](https://instagram.com/pickerpkk/)
 - 🎯 **สิ่งที่ชอบทำ:** ชอบเล่นเกม ฟังเพลง
 
 **เรื่องที่ได้จากการสัมภาษณ์**
