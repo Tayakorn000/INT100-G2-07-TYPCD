@@ -114,7 +114,7 @@ INT100 Design Thinking 1/2026 · School of Information Technology, KMUTT
 ![ชื่อเพื่อนคนที่ 5](images/member5.jpg)
 
 - 🏫 **ชื่อเล่น:** พิกเกอร์
-- 💻 **GitHub:** [@username](https://github.com/username)
+- 💻 **GitHub:** [@pickerkung](https://github.com/pickerkung)
 - 🔗 **ลิงก์:** [Instagram](https://instagram.com/xxxx)
 - 🎯 **สิ่งที่ชอบทำ:** ชอบเล่นเกม ฟังเพลง
 
