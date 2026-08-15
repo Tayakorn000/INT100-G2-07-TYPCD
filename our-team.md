@@ -22,9 +22,9 @@ _(ข้อนี้อาจารย์บังคับ: "Describe how you c
 
 | ชื่อ | GitHub | เขียนแนะนำโดย |
 | --- | --- | --- |
-| (ชื่อ-นามสกุล) | [@Tayakorn000](https://github.com/Tayakorn000) | |
+| ทยากร เวชกุล | [@Tayakorn000](https://github.com/Tayakorn000) | |
 | ศญาฎา สุดยินดี | [@sayada06](https://github.com/sayada06) | [@nonnyhiw](https://github.com/nonnyhiw) |
-| กิตติโชติ สนบ้านเกาะ | [@QuoalaZ](https://github.com/QuoalaZ) | |
+| กิตติโชติ สนบ้านเกาะ | [@QuoalaZ](https://github.com/QuoalaZ) | [@Tayakorn000](https://github.com/Tayakorn000) |
 | แดนนี่ อินทรังสี | [@nonnyhiw](https://github.com/nonnyhiw) | [@greenbank-336](https://github.com/greenbank-336) |
 | พิกเกอร์ | [@pickerkung](https://github.com/pickerkung) | [@QuoalaZ](https://github.com/QuoalaZ) |
 | ธีระเดช พลดอน | [@greenbank-336](https://github.com/greenbank-336) | [@sayada06](https://github.com/sayada06) |
@@ -107,20 +107,26 @@ _(ข้อนี้อาจารย์บังคับ: "Describe how you c
 
 ---
 
-## 🙋 ชื่อเพื่อนคนที่ 4
+## 🙋 อิคคิว
 
-![ชื่อเพื่อนคนที่ 4](images/member4.jpg)
+![อิคคิว](images/member4.jpg)
 
-- 🏫 **ชื่อเล่น:**
-- 💻 **GitHub:** [@username](https://github.com/username)
-- 🔗 **ลิงก์:** [Instagram](https://instagram.com/xxxx)
-- 🎯 **สิ่งที่ชอบทำ:**
+- 🏫 **ชื่อเล่น:** อิคคิว
+- 💻 **GitHub:** [@QuoalaZ](https://github.com/QuoalaZ)
+- 🔗 **ลิงก์:** [kks__.q](https://www.instagram.com/kks__.q/)
+- 🎯 **สิ่งที่ชอบทำ:** เล่นเกม เล่นคอมพิวเตอร์
 
 **เรื่องที่ได้จากการสัมภาษณ์**
 
-> quote
+อิคคิวจบมาจาก **โรงเรียนพระปฐมวิทยาลัย** <br>
+**ทำไมถึงอยากเข้าที่นี่** เพราะรู้อยู่แล้วว่า มจธ. เด่นเรื่องเทคโนโลยี และมีรุ่นพี่แนะนำเรื่องคณะ IT ของ มจธ. มาให้ฟัง ตัวเขาเองเป็นคนชอบเล่นเกมชอบเล่นคอมอยู่แล้ว และชอบลงมือปฏิบัติมากกว่าเรียนทฤษฎี เลยคิดว่า มจธ. ตอบโจทย์ตรงนี้ที่สุด อีกอย่างคือที่นี่เปิดโอกาสให้นักศึกษาได้ค้นหาตัวเองก่อนที่จะเลือกสายที่ตัวเองชอบ และได้พัฒนาทักษะด้าน IT หลายด้าน เขาเลยคิดว่าที่นี่เหมาะกับตัวเองที่สุด <br>
+**สิ่งที่ประทับใจ:** เวลาไม่เข้าใจเรื่องไหนก็ถามเพื่อนได้ตลอด เพื่อนที่นี่ค่อนข้าง friendly
+
+> **“ผมชอบการปฏิบัติมากกว่าทฤษฎี”**
 
 **✏️ เขียนแนะนำโดย:**
+
+**[@Tayakorn000](https://github.com/Tayakorn000)** | ทยากร เวชกุล (ริว) รหัสนักศึกษา 69130500084
 
 ---
 
