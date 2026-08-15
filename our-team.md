@@ -24,9 +24,9 @@ INT100 Design Thinking 1/2026 · School of Information Technology, KMUTT
 | --- | --- | --- |
 | (ชื่อ-นามสกุล) | [@Tayakorn000](https://github.com/Tayakorn000) | |
 | (ชื่อ-นามสกุล) | [@sayada06](https://github.com/sayada06) | |
-| (ชื่อ-นามสกุล) | [@QuoalaZ](https://github.com/QuoalaZ) | |
+| (กิตติโชติ สนบ้านเกาะ) | [@QuoalaZ](https://github.com/QuoalaZ) | |
 | (ชื่อ-นามสกุล) | [@nonnyhiw](https://github.com/nonnyhiw) | |
-| (ชื่อ-นามสกุล) | [@pickerkung](https://github.com/pickerkung) | |
+| (ชื่อ-นามสกุล) | [@pickerkung](https://github.com/pickerkung) |[@QuoalaZ](https://github.com/QuoalaZ) |
 | (ชื่อ-นามสกุล) | [@greenbank-336](https://github.com/greenbank-336) | |
 
 ---
