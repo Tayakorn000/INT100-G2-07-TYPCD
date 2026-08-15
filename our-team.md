@@ -1,6 +1,17 @@
-# 🐧 TYPC D — INT100 Group 2, Team 07
+<div align="center">
 
-INT100 Design Thinking 1/2026 · School of Information Technology, KMUTT
+# 🐧 TYPC D
+
+**INT100 Design Thinking · Group 2 · Team 07**
+
+School of Information Technology, King Mongkut's University of Technology Thonburi
+
+![Course](https://img.shields.io/badge/INT100-Design%20Thinking-2ea44f)
+![Term](https://img.shields.io/badge/Term-1%2F2026-blue)
+![Team](https://img.shields.io/badge/Group%202-Team%2007-8957e5)
+![Members](https://img.shields.io/badge/Members-6-orange)
+
+</div>
 
 ---
 
@@ -16,23 +27,51 @@ INT100 Design Thinking 1/2026 · School of Information Technology, KMUTT
 
 ## 👥 สมาชิกทีม
 
-| ชื่อ | GitHub | เขียนแนะนำโดย |
-| --- | --- | --- |
-| (ชื่อ-นามสกุล) | [@Tayakorn000](https://github.com/Tayakorn000) | |
-| ศญาฎา สุดยินดี | [@sayada06](https://github.com/sayada06) | [@nonnyhiw](https://github.com/nonnyhiw) |
-| กิตติโชติ สนบ้านเกาะ | [@QuoalaZ](https://github.com/QuoalaZ) | |
-| แดนนี่ อินทรังสี | [@nonnyhiw](https://github.com/nonnyhiw) | [@greenbank-336](https://github.com/greenbank-336) |
-| พิกเกอร์ | [@pickerkung](https://github.com/pickerkung) | [@QuoalaZ](https://github.com/QuoalaZ) |
-| ธีระเดช พลดอน | [@greenbank-336](https://github.com/greenbank-336) | [@sayada06](https://github.com/sayada06) |
+| | ชื่อ | ชื่อเล่น | GitHub | เขียนแนะนำโดย |
+| :---: | --- | :---: | --- | --- |
+| ⏳ | ทยากร เวชกุล | [ริว](#riw) | [@Tayakorn000](https://github.com/Tayakorn000) | |
+| <img src="images/member2.jpg" width="60"> | ศญาฎา สุดยินดี | [โฟม](#foam) | [@sayada06](https://github.com/sayada06) | [@nonnyhiw](https://github.com/nonnyhiw) |
+| <img src="images/member4.jpg" width="60"> | กิตติโชติ สนบ้านเกาะ | [อิคคิว](#ikyu) | [@QuoalaZ](https://github.com/QuoalaZ) | [@Tayakorn000](https://github.com/Tayakorn000) |
+| <img src="images/member3.jpg" width="60"> | แดนนี่ อินทรังสี | [แดนนี่](#danny) | [@nonnyhiw](https://github.com/nonnyhiw) | [@greenbank-336](https://github.com/greenbank-336) |
+| <img src="images/member5.jpg" width="60"> | พิกเกอร์ | [พิกเกอร์](#picker) | [@pickerkung](https://github.com/pickerkung) | [@QuoalaZ](https://github.com/QuoalaZ) |
+| <img src="images/member1.jpg" width="60"> | ธีระเดช พลดอน | [แบงค์](#bank) | [@greenbank-336](https://github.com/greenbank-336) | [@sayada06](https://github.com/sayada06) |
 
----
+<details>
+<summary>✍️ วิธีเขียนหัวข้อของตัวเอง (กดเพื่อดู)</summary>
 
-## ✍️ วิธีเขียนหัวข้อของตัวเอง
+<br>
 
-คัดลอกบล็อกด้านล่างไปแก้ ห้ามลืม 4 อย่างที่อาจารย์บังคับ:
+คัดลอกบล็อกด้านล่างไปแก้ ห้ามลืม 4 อย่างที่อาจารย์บังคับ
 รูป (อัปโหลดขึ้น GitHub ใช้ relative link) · ลิงก์ออกนอก GitHub · list · emoji
 
+```markdown
+## 🙋 ชื่อเพื่อน
+
+![ชื่อเพื่อน](images/memberN.jpg)
+
+- 🏫 **ชื่อเล่น:**
+- 💻 **GitHub:** [@username](https://github.com/username)
+- 🔗 **ลิงก์:** [Instagram](https://instagram.com/xxxx)
+- 🎯 **สิ่งที่ชอบทำ:**
+
+**เรื่องที่ได้จากการสัมภาษณ์**
+
+ชื่อเพื่อนจบมาจาก **โรงเรียน...** <br>
+**ทำไมถึงเลือกเรียนที่นี่** ... <br>
+**สิ่งที่ประทับใจ:** ...
+
+> **"คำพูดที่เขาชอบที่สุด"**
+
+**✏️ เขียนแนะนำโดย:**
+
+**[@username](https://github.com/username)** | ชื่อ-นามสกุล (ชื่อเล่น) รหัสนักศึกษา xxxxxxxxxxx
+```
+
+</details>
+
 ---
+
+<a id="bank"></a>
 
 ## 🙋 แบงค์
 
@@ -57,6 +96,8 @@ INT100 Design Thinking 1/2026 · School of Information Technology, KMUTT
 
 ---
 
+<a id="foam"></a>
+
 ## 🙋 โฟม
 
 ![โฟม](images/member2.jpg)
@@ -79,6 +120,8 @@ INT100 Design Thinking 1/2026 · School of Information Technology, KMUTT
 **[@nonnyhiw](https://github.com/nonnyhiw)** | นายแดนนี่ อินทรังสี (แดนนี่) รหัสนักศึกษา 69130500106   
 
 ---
+
+<a id="danny"></a>
 
 ## 🙋 แดนนี่
 
@@ -103,22 +146,32 @@ INT100 Design Thinking 1/2026 · School of Information Technology, KMUTT
 
 ---
 
-## 🙋 ชื่อเพื่อนคนที่ 4
+<a id="ikyu"></a>
 
-![ชื่อเพื่อนคนที่ 4](images/member4.jpg)
+## 🙋 อิคคิว
 
-- 🏫 **ชื่อเล่น:**
-- 💻 **GitHub:** [@username](https://github.com/username)
-- 🔗 **ลิงก์:** [Instagram](https://instagram.com/xxxx)
-- 🎯 **สิ่งที่ชอบทำ:**
+![อิคคิว](images/member4.jpg)
+
+- 🏫 **ชื่อเล่น:** อิคคิว
+- 💻 **GitHub:** [@QuoalaZ](https://github.com/QuoalaZ)
+- 🔗 **ลิงก์:** [kks__.q](https://www.instagram.com/kks__.q/)
+- 🎯 **สิ่งที่ชอบทำ:** เล่นเกม เล่นคอมพิวเตอร์
 
 **เรื่องที่ได้จากการสัมภาษณ์**
 
-> quote
+อิคคิวจบมาจาก **โรงเรียนพระปฐมวิทยาลัย** <br>
+**ทำไมถึงอยากเข้าที่นี่** เพราะรู้อยู่แล้วว่า มจธ. เด่นเรื่องเทคโนโลยี และมีรุ่นพี่แนะนำเรื่องคณะ IT ของ มจธ. มาให้ฟัง ตัวเขาเองเป็นคนชอบเล่นเกมชอบเล่นคอมอยู่แล้ว และชอบลงมือปฏิบัติมากกว่าเรียนทฤษฎี เลยคิดว่า มจธ. ตอบโจทย์ตรงนี้ที่สุด อีกอย่างคือที่นี่เปิดโอกาสให้นักศึกษาได้ค้นหาตัวเองก่อนที่จะเลือกสายที่ตัวเองชอบ และได้พัฒนาทักษะด้าน IT หลายด้าน เขาเลยคิดว่าที่นี่เหมาะกับตัวเองที่สุด <br>
+**สิ่งที่ประทับใจ:** เวลาไม่เข้าใจเรื่องไหนก็ถามเพื่อนได้ตลอด เพื่อนที่นี่ค่อนข้าง friendly
+
+> **“ผมชอบการปฏิบัติมากกว่าทฤษฎี”**
 
 **✏️ เขียนแนะนำโดย:**
 
+**[@Tayakorn000](https://github.com/Tayakorn000)** | ทยากร เวชกุล (ริว) รหัสนักศึกษา 69130500084
+
 ---
+
+<a id="picker"></a>
 
 ## 🙋 พิกเกอร์
 
@@ -143,6 +196,8 @@ INT100 Design Thinking 1/2026 · School of Information Technology, KMUTT
 
 ---
 
+<a id="riw"></a>
+
 ## 🙋 ชื่อเพื่อนคนที่ 6
 
 ![ชื่อเพื่อนคนที่ 6](images/member6.jpg)
@@ -160,10 +215,22 @@ INT100 Design Thinking 1/2026 · School of Information Technology, KMUTT
 
 ---
 
-## 🔄 วิธีทำงานกับไฟล์นี้ (GitHub Flow)
+<details>
+<summary>🔄 วิธีทำงานกับไฟล์นี้ (GitHub Flow)</summary>
 
-1. สร้าง branch ของตัวเอง เช่น `intro-sayada06`
-2. แก้เฉพาะหัวข้อของตัวเอง แล้ว commit หลายครั้ง
-3. เปิด Pull request มาที่ `main`
-4. **เพื่อนในทีมต้องกด Review แล้ว Approve ก่อนถึงจะ merge ได้** (อาจารย์บังคับ)
-5. merge เข้า `main`
+<br>
+
+1. กด **Sync branch** ดึง `main` ล่าสุดมาก่อนทุกครั้ง
+2. สร้าง branch ของตัวเอง เช่น `intro-sayada06`
+3. แก้เฉพาะหัวข้อของตัวเอง แล้ว commit หลายครั้ง
+4. เปิด Pull request มาที่ `main`
+5. **เพื่อนในทีมต้องกด Review แล้ว Approve ก่อนถึงจะ merge ได้** (อาจารย์บังคับ)
+6. merge เข้า `main` แล้วลบ branch ได้เลย
+
+</details>
+
+<div align="center">
+
+**INT100 Design Thinking · Team Introduction Assignment**
+
+</div>
