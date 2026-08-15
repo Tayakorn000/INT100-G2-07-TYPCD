@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐧 TYPC D
+# TYPC D 🐧
 
 **INT100 Design Thinking · Group 2 · Team 07**
 
@@ -15,21 +15,21 @@ School of Information Technology, King Mongkut's University of Technology Thonbu
 
 ---
 
-## 🏷️ ที่มาของชื่อทีม
+## ที่มาของชื่อทีม
 
 ชื่อทีม **TYPC D** มาจากการนำ **อักษรตัวแรกของชื่อสมาชิกแต่ละคนมาเรียงต่อกัน**
 
-- 🔤 **ที่มาของชื่อ:** หยิบอักษรตัวแรกของชื่อสมาชิกทั้ง 6 คนมาต่อกันตรง ๆ จนได้เป็นคำว่า TYPC D
-- 💭 **ความหมายเบื้องหลังชื่อ:** ไม่ได้ตั้งใจให้ชื่อแปลว่าอะไรเป็นพิเศษ เพราะตัวชื่อคือตัวสมาชิกเอง
-- ✅ **ทำไมทีมถึงเลือกชื่อนี้:** สั้น จำง่าย และทุกคนมีตัวตนอยู่ในชื่อทีม ไม่มีใครตกหล่น
+- **ที่มาของชื่อ:** หยิบอักษรตัวแรกของชื่อสมาชิกทั้ง 6 คนมาต่อกันตรง ๆ จนได้เป็นคำว่า TYPC D
+- **ความหมายเบื้องหลังชื่อ:** ไม่ได้ตั้งใจให้ชื่อแปลว่าอะไรเป็นพิเศษ เพราะตัวชื่อคือตัวสมาชิกเอง
+- **ทำไมทีมถึงเลือกชื่อนี้:** สั้น จำง่าย และทุกคนมีตัวตนอยู่ในชื่อทีม ไม่มีใครตกหล่น
 
 ---
 
-## 👥 สมาชิกทีม
+## สมาชิกทีม
 
 | | ชื่อ | ชื่อเล่น | GitHub | เขียนแนะนำโดย |
 | :---: | --- | :---: | --- | --- |
-| ⏳ | ทยากร เวชกุล | [ริว](#riw) | [@Tayakorn000](https://github.com/Tayakorn000) | |
+| — | ทยากร เวชกุล | [ริว](#riw) | [@Tayakorn000](https://github.com/Tayakorn000) | |
 | <img src="images/member2.jpg" width="60"> | ศญาฎา สุดยินดี | [โฟม](#foam) | [@sayada06](https://github.com/sayada06) | [@nonnyhiw](https://github.com/nonnyhiw) |
 | <img src="images/member4.jpg" width="60"> | กิตติโชติ สนบ้านเกาะ | [อิคคิว](#ikyu) | [@QuoalaZ](https://github.com/QuoalaZ) | [@Tayakorn000](https://github.com/Tayakorn000) |
 | <img src="images/member3.jpg" width="60"> | แดนนี่ อินทรังสี | [แดนนี่](#danny) | [@nonnyhiw](https://github.com/nonnyhiw) | [@greenbank-336](https://github.com/greenbank-336) |
@@ -37,22 +37,25 @@ School of Information Technology, King Mongkut's University of Technology Thonbu
 | <img src="images/member1.jpg" width="60"> | ธีระเดช พลดอน | [แบงค์](#bank) | [@greenbank-336](https://github.com/greenbank-336) | [@sayada06](https://github.com/sayada06) |
 
 <details>
-<summary>✍️ วิธีเขียนหัวข้อของตัวเอง (กดเพื่อดู)</summary>
+<summary>วิธีเขียนหัวข้อของตัวเอง</summary>
 
 <br>
 
-คัดลอกบล็อกด้านล่างไปแก้ ห้ามลืม 4 อย่างที่อาจารย์บังคับ
+คัดลอกบล็อกด้านล่างไปแก้ อาจารย์บังคับให้ไฟล์นี้ต้องมีครบ 4 อย่าง
 รูป (อัปโหลดขึ้น GitHub ใช้ relative link) · ลิงก์ออกนอก GitHub · list · emoji
 
+สามอย่างแรกอยู่ในหัวข้อของทุกคนอยู่แล้ว ส่วน emoji ใช้ที่ชื่อทีมด้านบนหน้าเดียว
+เพื่อให้หน้าโดยรวมดูเป็นทางการ ไม่ต้องใส่เพิ่มในหัวข้อของตัวเอง
+
 ```markdown
-## 🙋 ชื่อเพื่อน
+## ชื่อเพื่อน
 
 ![ชื่อเพื่อน](images/memberN.jpg)
 
-- 🏫 **ชื่อเล่น:**
-- 💻 **GitHub:** [@username](https://github.com/username)
-- 🔗 **ลิงก์:** [Instagram](https://instagram.com/xxxx)
-- 🎯 **สิ่งที่ชอบทำ:**
+- **ชื่อเล่น:**
+- **GitHub:** [@username](https://github.com/username)
+- **ลิงก์:** [Instagram](https://instagram.com/xxxx)
+- **สิ่งที่ชอบทำ:**
 
 **เรื่องที่ได้จากการสัมภาษณ์**
 
@@ -62,7 +65,7 @@ School of Information Technology, King Mongkut's University of Technology Thonbu
 
 > **"คำพูดที่เขาชอบที่สุด"**
 
-**✏️ เขียนแนะนำโดย:**
+**เขียนแนะนำโดย**
 
 **[@username](https://github.com/username)** | ชื่อ-นามสกุล (ชื่อเล่น) รหัสนักศึกษา xxxxxxxxxxx
 ```
@@ -73,16 +76,16 @@ School of Information Technology, King Mongkut's University of Technology Thonbu
 
 <a id="bank"></a>
 
-## 🙋 แบงค์
+## แบงค์
 
 ![แบงค์](images/member1.jpg)
 
-- 🏫 **ชื่อเล่น:** แบงค์
-- 💻 **GitHub:** [@greenbank-336](https://github.com/greenbank-336)
-- 🔗 **ลิงก์:** [@chedareet](https://instagram.com/chedareet/)
-- 🎯 **สิ่งที่ชอบทำ:** ส่วนใหญ่จะเป็นการเล่นเกม ฟังเพลง แต่ก็มีวาดภาพและอ่านหนังสือบ้างบางครั้ง
+- **ชื่อเล่น:** แบงค์
+- **GitHub:** [@greenbank-336](https://github.com/greenbank-336)
+- **ลิงก์:** [@chedareet](https://instagram.com/chedareet/)
+- **สิ่งที่ชอบทำ:** ส่วนใหญ่จะเป็นการเล่นเกม ฟังเพลง แต่ก็มีวาดภาพและอ่านหนังสือบ้างบางครั้ง
 
-### **เรื่องที่ได้จากการสัมภาษณ์**
+**เรื่องที่ได้จากการสัมภาษณ์**
 
 แบงค์จบมาจาก ***โรงเรียนมัธยมวัดสิงห์*** <br>
 ***ทำไมแบงค์ถึงอยากเรียนที่นี่*** อย่างแรกเลยแบงค์บอกว่าที่นี่เป็นมหาลัยที่มีชื่อเสียง อย่างที่สองคือมหาวิทยาลัยอยู่ใกล้กับบ้าน และที่เลือกเรียนคณะนี้เพราะ แบงค์ชอบโน๊ตบุ๊คและคอม เป็นพิเศษ อีกทั้งยังมีความชอบในด้าน AI และแบงค์สงสัยว่า AI ทำยังไงถึงเกิดขึ้น อะไรทำให้หลายคนมองว่า AI น่ากลัว และอยากรู้ว่า AI ในโลกของเราจะสามารถพัฒนาถึงในระดับที่เขาบอกว่า  เหนือกว่ามนุษย์ทุกคนในทุกด้านอย่าง ASI(Artificial Super intelligent) ได้ไหม <br>
@@ -90,7 +93,7 @@ School of Information Technology, King Mongkut's University of Technology Thonbu
 
 > คำพูดที่แบงค์ชอบที่สุดคือ **"what the"(ลากยาว) และคำว่า "จะว่าไป"**
 
-**✏️ เขียนแนะนำโดย:**
+**เขียนแนะนำโดย**
 
 **[@sayada06](https://github.com/sayada06)** | นางสาวศญาฎา สุดยินดี (โฟม) รหัสนักศึกษา 69130500098 
 
@@ -98,14 +101,14 @@ School of Information Technology, King Mongkut's University of Technology Thonbu
 
 <a id="foam"></a>
 
-## 🙋 โฟม
+## โฟม
 
 ![โฟม](images/member2.jpg)
 
-- 🏫 **ชื่อเล่น:** โฟม
-- 💻 **GitHub:** [@sayada06](https://github.com/sayada06)
-- 🔗 **ลิงก์:** [sixthofjune._](https://www.instagram.com/sixthofjune._/)
-- 🎯 **สิ่งที่ชอบทำ:** เล่นเกม ดูซีรี่ย์
+- **ชื่อเล่น:** โฟม
+- **GitHub:** [@sayada06](https://github.com/sayada06)
+- **ลิงก์:** [sixthofjune._](https://www.instagram.com/sixthofjune._/)
+- **สิ่งที่ชอบทำ:** เล่นเกม ดูซีรี่ย์
 
 **เรื่องที่ได้จากการสัมภาษณ์**    
 โฟมจบจาก ***วิทยาลัยเทคโนโลยีพงษ์สวัสดิ์***    
@@ -115,7 +118,7 @@ School of Information Technology, King Mongkut's University of Technology Thonbu
 > คำพูดที่โฟมชอบที่สุดคือ **"จริงป้ะ"** **"กินไรดี"** 
 **"กลับห้องและ"**
 
-**✏️ เขียนแนะนำโดย:**
+**เขียนแนะนำโดย**
 
 **[@nonnyhiw](https://github.com/nonnyhiw)** | นายแดนนี่ อินทรังสี (แดนนี่) รหัสนักศึกษา 69130500106   
 
@@ -123,14 +126,14 @@ School of Information Technology, King Mongkut's University of Technology Thonbu
 
 <a id="danny"></a>
 
-## 🙋 แดนนี่
+## แดนนี่
 
 ![แดนนี่](images/member3.jpg)
 
-- 🏫 **ชื่อเล่น:** แดนนี่
-- 💻 **GitHub:** [@nonnyhiw](https://github.com/nonnyhiw)
-- 🔗 **ลิงก์:** [dd_dannyyy]( https://www.instagram.com/dd_dannyyy?igsh=MXJmMHU5cDV5OTF6)
-- 🎯 **สิ่งที่ชอบทำ:** เล่นกีฬา , ร้องเพลง
+- **ชื่อเล่น:** แดนนี่
+- **GitHub:** [@nonnyhiw](https://github.com/nonnyhiw)
+- **ลิงก์:** [dd_dannyyy]( https://www.instagram.com/dd_dannyyy?igsh=MXJmMHU5cDV5OTF6)
+- **สิ่งที่ชอบทำ:** เล่นกีฬา , ร้องเพลง
 
 **เรื่องที่ได้จากการสัมภาษณ์**
 
@@ -140,7 +143,7 @@ School of Information Technology, King Mongkut's University of Technology Thonbu
 
 > **ยื่นฟ้องศาลเรื่องเขาไม่รักผมสรุปศาลไม่ตัดสินศาลบอกให้ตัดใจ**
 
-**✏️ เขียนแนะนำโดย:**
+**เขียนแนะนำโดย**
 
 **[@greenbank-336](https://github.com/greenbank-336)** | นายธีระเดช พลดอน (แบงค์) รหัสนักศึกษา 69130500107
 
@@ -148,14 +151,14 @@ School of Information Technology, King Mongkut's University of Technology Thonbu
 
 <a id="ikyu"></a>
 
-## 🙋 อิคคิว
+## อิคคิว
 
 ![อิคคิว](images/member4.jpg)
 
-- 🏫 **ชื่อเล่น:** อิคคิว
-- 💻 **GitHub:** [@QuoalaZ](https://github.com/QuoalaZ)
-- 🔗 **ลิงก์:** [kks__.q](https://www.instagram.com/kks__.q/)
-- 🎯 **สิ่งที่ชอบทำ:** เล่นเกม เล่นคอมพิวเตอร์
+- **ชื่อเล่น:** อิคคิว
+- **GitHub:** [@QuoalaZ](https://github.com/QuoalaZ)
+- **ลิงก์:** [kks__.q](https://www.instagram.com/kks__.q/)
+- **สิ่งที่ชอบทำ:** เล่นเกม เล่นคอมพิวเตอร์
 
 **เรื่องที่ได้จากการสัมภาษณ์**
 
@@ -165,7 +168,7 @@ School of Information Technology, King Mongkut's University of Technology Thonbu
 
 > **“ผมชอบการปฏิบัติมากกว่าทฤษฎี”**
 
-**✏️ เขียนแนะนำโดย:**
+**เขียนแนะนำโดย**
 
 **[@Tayakorn000](https://github.com/Tayakorn000)** | ทยากร เวชกุล (ริว) รหัสนักศึกษา 69130500084
 
@@ -173,14 +176,14 @@ School of Information Technology, King Mongkut's University of Technology Thonbu
 
 <a id="picker"></a>
 
-## 🙋 พิกเกอร์
+## พิกเกอร์
 
 ![พิกเกอร์](images/member5.jpg)
 
-- 🏫 **ชื่อเล่น:** พิกเกอร์
-- 💻 **GitHub:** [@pickerkung](https://github.com/pickerkung)
-- 🔗 **ลิงก์:** [pickerpkk](https://instagram.com/pickerpkk/)
-- 🎯 **สิ่งที่ชอบทำ:** ชอบเล่นเกม ฟังเพลง
+- **ชื่อเล่น:** พิกเกอร์
+- **GitHub:** [@pickerkung](https://github.com/pickerkung)
+- **ลิงก์:** [pickerpkk](https://instagram.com/pickerpkk/)
+- **สิ่งที่ชอบทำ:** ชอบเล่นเกม ฟังเพลง
 
 **เรื่องที่ได้จากการสัมภาษณ์**
 
@@ -190,7 +193,7 @@ School of Information Technology, King Mongkut's University of Technology Thonbu
 
 > คำพูดที่พิกเกอร์ชอบที่สุดคือ **“เอาดง”** และคำว่า **“เอาดี”**
 
-**✏️ เขียนแนะนำโดย:**
+**เขียนแนะนำโดย**
 
 **[@QuoalaZ](https://github.com/QuoalaZ)** | นายกิตติโชติ สนบ้านเกาะ (อิคคิว) รหัสนักศึกษา 69130500078
 
@@ -198,25 +201,25 @@ School of Information Technology, King Mongkut's University of Technology Thonbu
 
 <a id="riw"></a>
 
-## 🙋 ชื่อเพื่อนคนที่ 6
+## ชื่อเพื่อนคนที่ 6
 
 ![ชื่อเพื่อนคนที่ 6](images/member6.jpg)
 
-- 🏫 **ชื่อเล่น:**
-- 💻 **GitHub:** [@username](https://github.com/username)
-- 🔗 **ลิงก์:** [Instagram](https://instagram.com/xxxx)
-- 🎯 **สิ่งที่ชอบทำ:**
+- **ชื่อเล่น:**
+- **GitHub:** [@username](https://github.com/username)
+- **ลิงก์:** [Instagram](https://instagram.com/xxxx)
+- **สิ่งที่ชอบทำ:**
 
 **เรื่องที่ได้จากการสัมภาษณ์**
 
 > quote
 
-**✏️ เขียนแนะนำโดย:**
+**เขียนแนะนำโดย**
 
 ---
 
 <details>
-<summary>🔄 วิธีทำงานกับไฟล์นี้ (GitHub Flow)</summary>
+<summary>วิธีทำงานกับไฟล์นี้ (GitHub Flow)</summary>
 
 <br>
 
