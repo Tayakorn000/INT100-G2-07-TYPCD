@@ -22,7 +22,7 @@ _(ข้อนี้อาจารย์บังคับ: "Describe how you c
 
 | ชื่อ | GitHub | เขียนแนะนำโดย |
 | --- | --- | --- |
-| (ชื่อ-นามสกุล) | [@Tayakorn000](https://github.com/Tayakorn000) | |
+| ทยากร เวชกุล | [@Tayakorn000](https://github.com/Tayakorn000) | |
 | ศญาฎา สุดยินดี | [@sayada06](https://github.com/sayada06) | [@nonnyhiw](https://github.com/nonnyhiw) |
 | กิตติโชติ สนบ้านเกาะ | [@QuoalaZ](https://github.com/QuoalaZ) | [@Tayakorn000](https://github.com/Tayakorn000) |
 | แดนนี่ อินทรังสี | [@nonnyhiw](https://github.com/nonnyhiw) | [@greenbank-336](https://github.com/greenbank-336) |
@@ -113,7 +113,7 @@ _(ข้อนี้อาจารย์บังคับ: "Describe how you c
 
 - 🏫 **ชื่อเล่น:** อิคคิว
 - 💻 **GitHub:** [@QuoalaZ](https://github.com/QuoalaZ)
-- 🔗 **ลิงก์:** [คณะเทคโนโลยีสารสนเทศ มจธ. (SIT)](https://www.sit.kmutt.ac.th/)
+- 🔗 **ลิงก์:** [kks__.q](https://www.instagram.com/kks__.q/)
 - 🎯 **สิ่งที่ชอบทำ:** เล่นเกม เล่นคอมพิวเตอร์
 
 **เรื่องที่ได้จากการสัมภาษณ์**
@@ -126,7 +126,7 @@ _(ข้อนี้อาจารย์บังคับ: "Describe how you c
 
 **✏️ เขียนแนะนำโดย:**
 
-**[@Tayakorn000](https://github.com/Tayakorn000)**
+**[@Tayakorn000](https://github.com/Tayakorn000)** | ทยากร เวชกุล (ริว) รหัสนักศึกษา 69130500084
 
 ---
 
