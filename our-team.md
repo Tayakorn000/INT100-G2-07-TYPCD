@@ -111,7 +111,8 @@ INT100 Design Thinking 1/2026 · School of Information Technology, KMUTT
 
 ## 🙋 พิกเกอร์
 
-![ชื่อเพื่อนคนที่ 5](images/member5.jpg)
+<img width="1086" height="1448" alt="image" src="https://github.com/user-attachments/assets/95f124d8-e0cb-4b9a-b64a-e5637e4efbc4" />
+
 
 - 🏫 **ชื่อเล่น:** พิกเกอร์
 - 💻 **GitHub:** [@pickerkung](https://github.com/pickerkung)
