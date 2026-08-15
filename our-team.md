@@ -24,9 +24,9 @@ _(ข้อนี้อาจารย์บังคับ: "Describe how you c
 | --- | --- | --- |
 | (ชื่อ-นามสกุล) | [@Tayakorn000](https://github.com/Tayakorn000) | |
 | ศญาฎา สุดยินดี | [@sayada06](https://github.com/sayada06) | [@nonnyhiw](https://github.com/nonnyhiw) |
-| (ชื่อ-นามสกุล) | [@QuoalaZ](https://github.com/QuoalaZ) | |
+| กิตติโชติ สนบ้านเกาะ | [@QuoalaZ](https://github.com/QuoalaZ) | |
 | แดนนี่ อินทรังสี | [@nonnyhiw](https://github.com/nonnyhiw) | [@greenbank-336](https://github.com/greenbank-336) |
-| (ชื่อ-นามสกุล) | [@pickerkung](https://github.com/pickerkung) | |
+| พิกเกอร์ | [@pickerkung](https://github.com/pickerkung) | [@QuoalaZ](https://github.com/QuoalaZ) |
 | ธีระเดช พลดอน | [@greenbank-336](https://github.com/greenbank-336) | [@sayada06](https://github.com/sayada06) |
 
 ---
@@ -124,20 +124,26 @@ _(ข้อนี้อาจารย์บังคับ: "Describe how you c
 
 ---
 
-## 🙋 ชื่อเพื่อนคนที่ 5
+## 🙋 พิกเกอร์
 
-![ชื่อเพื่อนคนที่ 5](images/member5.jpg)
+![พิกเกอร์](images/member5.jpg)
 
-- 🏫 **ชื่อเล่น:**
-- 💻 **GitHub:** [@username](https://github.com/username)
-- 🔗 **ลิงก์:** [Instagram](https://instagram.com/xxxx)
-- 🎯 **สิ่งที่ชอบทำ:**
+- 🏫 **ชื่อเล่น:** พิกเกอร์
+- 💻 **GitHub:** [@pickerkung](https://github.com/pickerkung)
+- 🔗 **ลิงก์:** [pickerpkk](https://instagram.com/pickerpkk/)
+- 🎯 **สิ่งที่ชอบทำ:** ชอบเล่นเกม ฟังเพลง
 
 **เรื่องที่ได้จากการสัมภาษณ์**
 
-> quote
+พิกเกอร์จบมาจาก **โรงเรียนธาตุพนม** <br>
+**ทำไมพิกเกอร์ถึงอยากเรียนที่นี่** เหตุผลที่อยากเรียนที่นี่เพราะ มหาวิทยาลัยนี้เด่นด้านวิทยาศาสตร์และเทคโนโลยี และยังเป็นที่แรกของประเทศไทยที่เปิดสอนหลักสูตร IT <br>
+**สิ่งที่ประทับใจ:** ได้เรียนที่พระจอมเกล้าธนบุรี
+
+> คำพูดที่พิกเกอร์ชอบที่สุดคือ **“เอาดง”** และคำว่า **“เอาดี”**
 
 **✏️ เขียนแนะนำโดย:**
+
+**[@QuoalaZ](https://github.com/QuoalaZ)** | นายกิตติโชติ สนบ้านเกาะ (อิคคิว) รหัสนักศึกษา 69130500078
 
 ---
 
