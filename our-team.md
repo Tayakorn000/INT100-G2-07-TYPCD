@@ -127,7 +127,7 @@ INT100 Design Thinking 1/2026 · School of Information Technology, KMUTT
 
 **✏️ เขียนแนะนำโดย:**
 
-[@QuoalaZ](https://github.com/QuoalaZ)|นายกิตติโชติ สนบ้านเกาะ (อิคคิา) รหัสนักศึกษา 69130500078
+[@QuoalaZ](https://github.com/QuoalaZ)|นายกิตติโชติ สนบ้านเกาะ (อิคคิว) รหัสนักศึกษา 69130500078
 
 ## 🙋 ชื่อเพื่อนคนที่ 6
 
