@@ -25,9 +25,10 @@ _(ข้อนี้อาจารย์บังคับ: "Describe how you c
 | (ชื่อ-นามสกุล) | [@Tayakorn000](https://github.com/Tayakorn000) | |
 | ศญาฎา สุดยินดี | [@sayada06](https://github.com/sayada06) | [@nonnyhiw](https://github.com/nonnyhiw) |
 | (ชื่อ-นามสกุล) | [@QuoalaZ](https://github.com/QuoalaZ) | |
-| แดนนี่ อินทรังสี | [@nonnyhiw](https://github.com/nonnyhiw) | |
+| แดนนี่ อินทรังสี | [@nonnyhiw](https://github.com/nonnyhiw) | [@greenbank-336](https://github.com/greenbank-336) |
 | (ชื่อ-นามสกุล) | [@pickerkung](https://github.com/pickerkung) | |
 | ธีระเดช พลดอน | [@greenbank-336](https://github.com/greenbank-336) | [@sayada06](https://github.com/sayada06) |
+
 ---
 
 ## ✍️ วิธีเขียนหัวข้อของตัวเอง
@@ -83,20 +84,26 @@ _(ข้อนี้อาจารย์บังคับ: "Describe how you c
 
 ---
 
-## 🙋 ชื่อเพื่อนคนที่ 3
+## 🙋 แดนนี่
 
-![ชื่อเพื่อนคนที่ 3](images/member3.jpg)
+![แดนนี่](images/member3.jpg)
 
-- 🏫 **ชื่อเล่น:** แบงค์
-- 💻 **GitHub:** [@username](https://github.com/username)
-- 🔗 **ลิงก์:** [Instagram](https://instagram.com/xxxx)
-- 🎯 **สิ่งที่ชอบทำ:**
+- 🏫 **ชื่อเล่น:** แดนนี่
+- 💻 **GitHub:** [@nonnyhiw](https://github.com/nonnyhiw)
+- 🔗 **ลิงก์:** [dd_dannyyy]( https://www.instagram.com/dd_dannyyy?igsh=MXJmMHU5cDV5OTF6)
+- 🎯 **สิ่งที่ชอบทำ:** เล่นกีฬา , ร้องเพลง
 
 **เรื่องที่ได้จากการสัมภาษณ์**
 
-> quote
+แดนนี่จบมาจาก **โรงเรียนสิริรัตนาธร** <br>
+**ทำไมถึงเข้าเรียนที่นี่** เพราะเป็นมหาลัยที่มีชื่อเสียงและเด่นในด้านไอที มีหลักสูตรการเรียนหลากหลายและทันสมัย และด้วยความที่ตัวเองมีความสนใจและชื่นชอบในด้านไอที และที่บางมดก็เป็นมหาลัยที่มีชื่อเสียงโด่งดังและเด่นในด้านไอทีและรวมทั้งคณะเทคโนโลยีสารสนเทศเป็นคณะที่มีหลักสูตรการเรียนที่มีความหลากหลายและทันสมัย<br>
+**สิ่งที่เพื่อนประทับใจ:** ทำงานเสร็จก่อน deadline
+
+> **ยื่นฟ้องศาลเรื่องเขาไม่รักผมสรุปศาลไม่ตัดสินศาลบอกให้ตัดใจ**
 
 **✏️ เขียนแนะนำโดย:**
+
+**[@greenbank-336](https://github.com/greenbank-336)** | นายธีระเดช พลดอน (แบงค์) รหัสนักศึกษา 69130500107
 
 ---
 
