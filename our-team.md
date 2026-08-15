@@ -36,7 +36,7 @@ King Mongkut's University of Technology Thonburi
 
 <table>
 <tr>
-<td align="center" width="33%"><a href="#riw"><img src="https://github.com/Tayakorn000.png" width="150" alt="ริว"><br><sub><b>ริว</b></sub></a><br><sub>ทยากร เวชกุล</sub><br><sub><a href="https://github.com/Tayakorn000">@Tayakorn000</a></sub></td>
+<td align="center" width="33%"><a href="#riw"><img src="images/placeholder.jpg" width="150" alt="ริว"><br><sub><b>ริว</b></sub></a><br><sub>ทยากร เวชกุล</sub><br><sub><a href="https://github.com/Tayakorn000">@Tayakorn000</a></sub></td>
 <td align="center" width="33%"><a href="#foam"><img src="images/member2.jpg" width="150" alt="โฟม"><br><sub><b>โฟม</b></sub></a><br><sub>ศญาฎา สุดยินดี</sub><br><sub><a href="https://github.com/sayada06">@sayada06</a></sub></td>
 <td align="center" width="33%"><a href="#ikyu"><img src="images/member4.jpg" width="150" alt="อิคคิว"><br><sub><b>อิคคิว</b></sub></a><br><sub>กิตติโชติ สนบ้านเกาะ</sub><br><sub><a href="https://github.com/QuoalaZ">@QuoalaZ</a></sub></td>
 </tr>
@@ -59,7 +59,7 @@ King Mongkut's University of Technology Thonburi
 
 ### ริว &nbsp;·&nbsp; ทยากร เวชกุล
 
-<img align="right" width="190" src="https://github.com/Tayakorn000.png" alt="ริว">
+<img align="right" width="190" src="images/placeholder.jpg" alt="ริว">
 
 - **ชื่อเล่น:** ริว
 - **GitHub:** [@Tayakorn000](https://github.com/Tayakorn000)
