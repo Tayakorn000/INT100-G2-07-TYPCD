@@ -1,0 +1,15 @@
+# Commits that only reformat our-team.md.
+# They touch every line, so plain git blame credits the whole file to whoever
+# ran the reformat. Listing them here makes GitHub blame skip them and show
+# the person who actually wrote each line.
+#
+# git config blame.ignoreRevsFile .git-blame-ignore-revs
+
+# Polish the layout of our-team.md
+4c25dcf7bab4fc062b7fb1a719bb82c26d390715
+# Remove the decorative emoji and keep the page formal
+0237922188c150da30fda5a23872f7a08c78c385
+# Lay the page out as a proper team profile
+06dce225f8ac1a8f6a9a5228d9df8359787ef276
+# Use a neutral placeholder for the entry that is not written yet
+8bee9d2ca27fbfdc239893d63130dbda41562b90
