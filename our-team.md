@@ -63,10 +63,19 @@ King Mongkut's University of Technology Thonburi
 
 - **ชื่อเล่น:** ริว
 - **GitHub:** [@Tayakorn000](https://github.com/Tayakorn000)
+- **ลิงก์:** [defeid_](https://instagram.com/defeid_)
+- **สิ่งที่ชอบทำ:** เขียนโปรแกรม ต่อวงจร ทำโปรเจกต์ของตัวเอง
 
 **เรื่องที่ได้จากการสัมภาษณ์**
 
-รอ [@pickerkung](https://github.com/pickerkung) สัมภาษณ์และเขียนแนะนำ
+ริวจบมาจาก **หาดใหญ่** <br>
+**ทำไมถึงเลือกเรียน IT** เพราะเขียนโปรแกรมมาก่อนเข้ามหาลัยแล้ว พอถึงเวลาเลือกที่เรียนเลยมองหาที่ที่เด่นด้านนี้ตรง ๆ และ KMUTT ก็ตรงกับสิ่งที่ทำอยู่แล้วที่สุด <br>
+**โปรเจกต์ที่ภูมิใจที่สุด** คือระบบติดตามรถด้วย GPS หรือตอนนี้ก็คือ [rttransit.com](https://rttransit.com) <br>
+**สิ่งที่ประทับใจ:** เวลาติดปัญหาแล้วไม่ยอมข้าม ไล่หาสาเหตุจนเจอว่าจริง ๆ พังตรงไหน
+
+> **"ถ้าไม่ทำงานก็เจอกันที่ลาดกระบัง"**
+
+<sub>เขียนแนะนำโดย [@pickerkung](https://github.com/pickerkung) · นายกฤษณพัฒน์ ธ.น.สำ (พิกเกอร์) รหัสนักศึกษา 69130500077</sub>
 
 <br clear="right">
 
@@ -149,7 +158,7 @@ King Mongkut's University of Technology Thonburi
 
 <a id="picker"></a>
 
-### พิกเกอร์
+### พิกเกอร์ &nbsp;·&nbsp; กฤษณพัฒน์ ธ.น.สำ
 
 <img align="right" width="190" src="images/member5.jpg" alt="พิกเกอร์">
 
