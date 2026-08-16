@@ -155,7 +155,7 @@ _(ข้อนี้อาจารย์บังคับ: "Describe how you c
 
 ## 🙋 ริว
 
-![ริว](member5.jpg)
+![ริว](https://github.com/Tayakorn000/INT100-G2-07-TYPCD/blob/932678ab4bf60423ac250b86c1f648c849afac34/images/member6.webp)
 
 - 🏫 **ชื่อเล่น:** ริว
 - 💻 **GitHub:** [@Tayakorn000]((https://github.com/Tayakorn000)
