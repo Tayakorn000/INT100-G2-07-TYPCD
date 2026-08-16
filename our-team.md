@@ -22,7 +22,7 @@ _(ข้อนี้อาจารย์บังคับ: "Describe how you c
 
 | ชื่อ | GitHub | เขียนแนะนำโดย |
 | --- | --- | --- |
-| ทยากร เวชกุล | [@Tayakorn000](https://github.com/Tayakorn000) | |
+| ทยากร เวชกุล | [@Tayakorn000](https://github.com/Tayakorn000) |[@pickerkung](https://github.com/pickerkung) |
 | ศญาฎา สุดยินดี | [@sayada06](https://github.com/sayada06) | [@nonnyhiw](https://github.com/nonnyhiw) |
 | กิตติโชติ สนบ้านเกาะ | [@QuoalaZ](https://github.com/QuoalaZ) | [@Tayakorn000](https://github.com/Tayakorn000) |
 | แดนนี่ อินทรังสี | [@nonnyhiw](https://github.com/nonnyhiw) | [@greenbank-336](https://github.com/greenbank-336) |
@@ -153,20 +153,25 @@ _(ข้อนี้อาจารย์บังคับ: "Describe how you c
 
 ---
 
-## 🙋 ชื่อเพื่อนคนที่ 6
+## 🙋 ริว
 
-![ชื่อเพื่อนคนที่ 6](images/member6.jpg)
+![ริว](images/member6.jpg)
 
-- 🏫 **ชื่อเล่น:**
-- 💻 **GitHub:** [@username](https://github.com/username)
-- 🔗 **ลิงก์:** [Instagram](https://instagram.com/xxxx)
-- 🎯 **สิ่งที่ชอบทำ:**
+- 🏫 **ชื่อเล่น:** ริว
+- 💻 **GitHub:** [@Tayakorn000]((https://github.com/Tayakorn000)
+- 🔗 **ลิงก์:** [defeid_](https://instagram.com/defeid_)
+- 🎯 **สิ่งที่ชอบทำ:** เขียนโปรแกรม ต่อวงจร ทำโปรเจกต์ของตัวเอง
 
 **เรื่องที่ได้จากการสัมภาษณ์**
+ริวจบมาจาก หาดใหญ่ <br>
+ทำไมถึงเลือกเรียน IT เพราะเขียนโปรแกรมมาก่อนเข้ามหาลัยแล้ว พอถึงเวลาเลือกที่เรียนเลยมองหาที่ที่เด่นด้านนี้ตรงๆ และ KMUTT ก็ตรงกับสิ่งที่ทำอยู่แล้วที่สุด <br>
+โปรเจกต์ที่ภูมิใจที่สุด คือระบบติดตามรถด้วย GPS หรือตอนนี้ก็คือ rttransit.com<br>
+สิ่งที่ประทับใจ เวลาติดปัญหาแล้วไม่ยอมข้าม ไล่หาสาเหตุจนเจอว่าจริง ๆ พังตรงไหน
 
 > quote
 
 **✏️ เขียนแนะนำโดย:**
+[@pickerkung](https://github.com/pickerkung)** | นายกฤษณพัฒน์ ธ.น.สำ (พิกเกอร์) รหัสนักศึกษา 69130500077
 
 ---
 
