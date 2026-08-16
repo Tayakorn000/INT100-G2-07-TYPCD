@@ -73,8 +73,6 @@ King Mongkut's University of Technology Thonburi
 **โปรเจกต์ที่ภูมิใจที่สุด** คือระบบติดตามรถด้วย GPS หรือตอนนี้ก็คือ [rttransit.com](https://rttransit.com) <br>
 **สิ่งที่ประทับใจ:** เวลาติดปัญหาแล้วไม่ยอมข้าม ไล่หาสาเหตุจนเจอว่าจริง ๆ พังตรงไหน
 
-> **"ถ้าไม่ทำงานก็เจอกันที่ลาดกระบัง"**
-
 <sub>เขียนแนะนำโดย [@pickerkung](https://github.com/pickerkung) · นายกฤษณพัฒน์ ธ.น.สำ (พิกเกอร์) รหัสนักศึกษา 69130500077</sub>
 
 <br clear="right">
