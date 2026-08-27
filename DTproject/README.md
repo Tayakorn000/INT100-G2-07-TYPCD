@@ -22,5 +22,5 @@
 | อิคคิว | [@QuoalaZ](https://github.com/QuoalaZ) | สัมภาษณ์ผู้ให้ข้อมูล "อ้น" ที่สวนลุมพินี |
 | พิกเกอร์ | [@pickerkung](https://github.com/pickerkung) | สัมภาษณ์ผู้ให้ข้อมูล "บอล" ที่สวนลุมพินี |
 | โฟม | [@sayada06](https://github.com/sayada06) | สัมภาษณ์ผู้ให้ข้อมูลผู้สูงอายุที่สวนธนบุรี, สรุป Persona/Insight กลุ่มผู้สูงอายุ |
-| nonnyhiw | [@nonnyhiw](https://github.com/nonnyhiw) | (เพิ่มเมื่อทำ) |
+| แดนนี่ | [@nonnyhiw](https://github.com/nonnyhiw) | สัมภาษณ์ผู้ให้ข้อมูล "ต้นข้าว" ที่สวนธนบุรีรมย์ |
 | greenbank-336 | [@greenbank-336](https://github.com/greenbank-336) | (เพิ่มเมื่อทำ) |
