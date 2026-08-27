@@ -1,18 +1,15 @@
 # DT Project — TYPC D (G2-07)
 
 **Location for Empathize:** Parks (Lumpini Park, Thonburirom Park, Suwannanon Park)
-**Target groups:** คนทำงานออฟฟิศที่ใช้สวนสาธารณะออกกำลังกาย, ผู้สูงอายุที่ใช้สวนสาธารณะออกกำลังกาย
+**Target groups:** ผู้ใช้สวนสาธารณะเพื่อออกกำลังกาย/ฟื้นฟูสุขภาพ (คนทำงานออฟฟิศและผู้สูงอายุ)
 
 ## Report contents
 
 1. [Interview](01-interview.md) — บทสัมภาษณ์
 2. [Empathize](02-empathize.md) — What-How-Why, Say-Do-Think-Feel
-3. [Persona 1](03-persona.md) — คนทำงานออฟฟิศ
-4. [Journey Map 1](04-journey-map.md)
-5. [PoV Statement 1](05-pov.md) — Insight, PoV, How Might We
-6. [Persona 2](06-persona2.md) — ผู้สูงอายุ (สวนธนบุรีรมย์)
-7. [Journey Map 2](07-journey2.md)
-8. [PoV Statement 2](08-pov2.md) — Insight, PoV, How Might We
+3. [Persona](03-persona.md)
+4. [Journey Map](04-journey-map.md)
+5. [PoV Statement](05-pov.md) — Insight, PoV, How Might We
 
 ## Team contribution
 
