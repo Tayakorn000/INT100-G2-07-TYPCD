@@ -6,7 +6,7 @@
 ## Report contents
 
 1. [Interview](01-interview.md) — บทสัมภาษณ์
-2. [Empathize](02-empathize.md) — What-How-Why, Say-Do-Think-Feel (กลุ่มคนทำงานออฟฟิศ)
+2. [Empathize](02-empathize.md) — What-How-Why, Say-Do-Think-Feel
 3. [Persona 1](03-persona.md) — คนทำงานออฟฟิศ
 4. [Journey Map 1](04-journey-map.md)
 5. [PoV Statement 1](05-pov.md) — Insight, PoV, How Might We
