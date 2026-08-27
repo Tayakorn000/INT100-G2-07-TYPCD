@@ -23,4 +23,4 @@
 | พิกเกอร์ | [@pickerkung](https://github.com/pickerkung) | สัมภาษณ์ผู้ให้ข้อมูล "บอล" ที่สวนลุมพินี |
 | โฟม | [@sayada06](https://github.com/sayada06) | สัมภาษณ์ผู้ให้ข้อมูลผู้สูงอายุที่สวนธนบุรีรมย์, สรุป Persona/Insight กลุ่มผู้สูงอายุ |
 | แดนนี่ | [@nonnyhiw](https://github.com/nonnyhiw) | สัมภาษณ์ผู้ให้ข้อมูล "ต้นข้าว" ที่สวนธนบุรีรมย์ |
-| greenbank-336 | [@greenbank-336](https://github.com/greenbank-336) | (เพิ่มเมื่อทำ) |
+| greenbank-336 | [@greenbank-336](https://github.com/greenbank-336) | สัมภาษณ์ผู้ให้ข้อมูล "ทะเน" ที่สวนสุวรรณนานนท์ |
