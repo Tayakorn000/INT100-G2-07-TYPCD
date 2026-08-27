@@ -1,6 +1,6 @@
 # DT Project — TYPC D (G2-07)
 
-**Location for Empathize:** Parks (Lumpini Park, Thonburi Park, Suwannanon Park)
+**Location for Empathize:** Parks (Lumpini Park, Thonburirom Park, Suwannanon Park)
 **Target groups:** คนทำงานออฟฟิศที่ใช้สวนสาธารณะออกกำลังกาย, ผู้สูงอายุที่ใช้สวนสาธารณะออกกำลังกาย
 
 ## Report contents
@@ -10,7 +10,7 @@
 3. [Persona 1](03-persona.md) — คนทำงานออฟฟิศ
 4. [Journey Map 1](04-journey-map.md)
 5. [PoV Statement 1](05-pov.md) — Insight, PoV, How Might We
-6. [Persona 2](06-persona2.md) — ผู้สูงอายุ (สวนธนบุรี)
+6. [Persona 2](06-persona2.md) — ผู้สูงอายุ (สวนธนบุรีรมย์)
 7. [Journey Map 2](07-journey2.md)
 8. [PoV Statement 2](08-pov2.md) — Insight, PoV, How Might We
 
@@ -21,6 +21,6 @@
 | ริว | [@Tayakorn000](https://github.com/Tayakorn000) | สัมภาษณ์ (Shashi), จัดโครงรายงาน, สรุป Empathize/Persona/PoV |
 | อิคคิว | [@QuoalaZ](https://github.com/QuoalaZ) | สัมภาษณ์ผู้ให้ข้อมูล "อ้น" ที่สวนลุมพินี |
 | พิกเกอร์ | [@pickerkung](https://github.com/pickerkung) | สัมภาษณ์ผู้ให้ข้อมูล "บอล" ที่สวนลุมพินี |
-| โฟม | [@sayada06](https://github.com/sayada06) | สัมภาษณ์ผู้ให้ข้อมูลผู้สูงอายุที่สวนธนบุรี, สรุป Persona/Insight กลุ่มผู้สูงอายุ |
+| โฟม | [@sayada06](https://github.com/sayada06) | สัมภาษณ์ผู้ให้ข้อมูลผู้สูงอายุที่สวนธนบุรีรมย์, สรุป Persona/Insight กลุ่มผู้สูงอายุ |
 | แดนนี่ | [@nonnyhiw](https://github.com/nonnyhiw) | สัมภาษณ์ผู้ให้ข้อมูล "ต้นข้าว" ที่สวนธนบุรีรมย์ |
 | greenbank-336 | [@greenbank-336](https://github.com/greenbank-336) | (เพิ่มเมื่อทำ) |
